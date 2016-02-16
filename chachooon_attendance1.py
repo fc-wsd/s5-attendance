@@ -27,3 +27,5 @@ def attend(student):
 #출석체크
 student = input('체크인 하려면 이름을 입력해주세요.\n')
 attend(student)
+
+#맞게한건지 되는건지 모르겠어요.
