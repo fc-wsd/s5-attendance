@@ -1,7 +1,7 @@
 # 수강생 : 양정일 (jungilyang)
 # 출석부 만들기2 (Class사용)
 
-# 일단 팀원만..
+# 일단 팀원만...
 students = '양정일', '신호철', '서자영', '한정현'
 
 #Student, Attendance  Class 생성
